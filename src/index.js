@@ -16,3 +16,4 @@ res.write('<!DOCTYPE html>'+
 res.end();
 });
 server.listen(8080);
+server.close(); 
